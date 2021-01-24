@@ -5,7 +5,7 @@
 - 👯 I am looking to collaborate on some projects, mainly with translations
 -   A little bit of experience on HTML, CSS, JS and PHP too.
 - 📫 Send me an eletronic mail: `arthurbacci@protonmail.com`
-- ⚡ Fun fact: I do not know OOP, that is an absurd!
+- ⚡ Fun fact: I generated my profile picture using [Processing](https://processing.org/)!
 
 My skills:
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />

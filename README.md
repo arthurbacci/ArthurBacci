@@ -17,5 +17,6 @@ My skills:
 
 
 When I say that I am a C programmer, that is what I mean:
+
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbacci64&hide=html&layout=compact&theme=buefy" />
 

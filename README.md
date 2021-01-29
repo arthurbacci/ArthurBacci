@@ -1,5 +1,7 @@
 ### Hi, I am Arthur
 
+<img width="200px" src="caos-spiral.gif" />
+
 ## Just a not too experienced C programmer. (I also know a little bit of Python)
 - 🌱 I am currently learning Haskell, getting more experience in C and trying to undertand the most famous algorithms
 - 👯 I am looking to collaborate on some projects, mainly with translations

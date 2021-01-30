@@ -4,7 +4,7 @@
 
 ## Just a not too experienced C programmer. (I also know a little bit of Python)
 - 🌱 I am currently learning Haskell, getting more experience in C and trying to undertand the most famous algorithms
-- 👯 I am looking to collaborate on some projects, mainly with translations
+-   I am looking to collaborate on some projects, mainly with translations
 -   A little bit of experience on HTML, CSS, JS and PHP too.
 - 📫 Send me an eletronic mail: `arthurbacci@protonmail.com`
 - ⚡ Fun fact: I generated my profile picture using [Processing](https://processing.org/)!

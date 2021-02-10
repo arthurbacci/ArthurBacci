@@ -1,6 +1,6 @@
 ### Hi, I am Arthur
 
-<img width="200px" src="caos-spiral.gif" />
+<img style="margin-left: auto; margin-right: auto" width="400px" src="caos-spiral.gif" />
 
 <div style="margin-left: auto;">
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
@@ -11,7 +11,6 @@
   <p>Fun fact: I generated my profile picture using <a href="https://processing.org/">Processing</a></p>
 </div>
 
-My skills:
 <div>
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />

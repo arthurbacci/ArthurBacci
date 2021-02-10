@@ -2,7 +2,7 @@
 
 <img width="200px" src="caos-spiral.gif" />
 
-<div style="margin-left: auto; margin-right: auto;">
+<div style="margin-left: auto;">
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
   <p>I am currently learning C++ and Haskell, getting more experience in C and trying to undertand the most famous algorithms</p>
   <p>I am looking to collaborate on some projects, mainly with translations</p>

@@ -4,7 +4,7 @@
 
 <div style="margin-left: auto;">
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
-  <p>I am currently learning C++ and Haskell, getting more experience in C and trying to undertand the most famous algorithms</p>
+  <p>I am currently learning C++ and Haskell, getting more experience in C and trying to understand the most famous algorithms</p>
   <p>I am looking to collaborate on some projects, mainly with translations</p>
   <p>A little bit of experience on HTML, CSS, JS and PHP too.</p>
   <p>Send me an eletronic mail: `arthurbacci@protonmail.com`</p>

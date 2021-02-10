@@ -2,12 +2,14 @@
 
 <img width="200px" src="caos-spiral.gif" />
 
+<div style="margin-left: auto; margin-right: auto;">
 ## Just a not too experienced C programmer. (I also know a little bit of Python)
 -  I am currently learning Haskell, getting more experience in C and trying to undertand the most famous algorithms
 -  I am looking to collaborate on some projects, mainly with translations
 -  A little bit of experience on HTML, CSS, JS and PHP too.
 -  Send me an eletronic mail: `arthurbacci@protonmail.com`
 -  Fun fact: I generated my profile picture using [Processing](https://processing.org/)!
+</div>
 
 My skills:
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />

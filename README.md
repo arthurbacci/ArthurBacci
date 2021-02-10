@@ -3,12 +3,12 @@
 <img width="200px" src="caos-spiral.gif" />
 
 <div style="margin-left: auto; margin-right: auto;">
-## Just a not too experienced C programmer. (I also know a little bit of Python)
--  I am currently learning Haskell, getting more experience in C and trying to undertand the most famous algorithms
--  I am looking to collaborate on some projects, mainly with translations
--  A little bit of experience on HTML, CSS, JS and PHP too.
--  Send me an eletronic mail: `arthurbacci@protonmail.com`
--  Fun fact: I generated my profile picture using [Processing](https://processing.org/)!
+  <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
+  <p>I am currently learning C++ and Haskell, getting more experience in C and trying to undertand the most famous algorithms</p>
+  <p>I am looking to collaborate on some projects, mainly with translations</p>
+  <p>A little bit of experience on HTML, CSS, JS and PHP too.</p>
+  <p>Send me an eletronic mail: `arthurbacci@protonmail.com`</p>
+  <p>Fun fact: I generated my profile picture using <a href="https://processing.org/">Processing</a></p>
 </div>
 
 My skills:

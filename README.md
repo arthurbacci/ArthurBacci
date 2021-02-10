@@ -20,8 +20,8 @@ My skills:
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+<div>
 <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=arthurbacci64&hide=html&theme=onedark" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbacci64&hide=html&theme=onedark" />
-
+</div>
 

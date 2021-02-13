@@ -1,4 +1,4 @@
-<center><img width="200px" src="caos-spiral.gif" /></center>
+<center><img width="250px" src="caos-spiral.gif" /></center>
 
 <div style="margin-left: auto;">
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>

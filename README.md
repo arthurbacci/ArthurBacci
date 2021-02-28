@@ -1,5 +1,7 @@
 <center><img width="200px" src="caos-spiral.gif" /></center>
 
+![](https://komarev.com/ghpvc/?username=arthurbacci64)
+
 <div style="margin-left: auto;">
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
   <p>I am currently learning C++ and Haskell, getting more experience in C and trying to understand the most famous algorithms</p>

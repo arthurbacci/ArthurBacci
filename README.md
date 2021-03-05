@@ -7,7 +7,7 @@
   <p>I am currently learning Rust and Haskell</p>
   <p>I am looking to collaborate on some projects, mainly with translations</p>
   <p>A little bit of experience on HTML, CSS, JS and PHP too.</p>
-  <p>Send me an eletronic mail: <code>arthurbacci@protonmail.com</code>`</p>
+  <p>Send me an eletronic mail: <code>arthurbacci@protonmail.com</code>.</p>
   <p>Fun fact: I generated my profile picture using <a href="https://processing.org/">Processing</a></p>
 </div>
 

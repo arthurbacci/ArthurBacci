@@ -4,7 +4,7 @@
   <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
   <p>I am currently learning Rust and Haskell.</p>
   <p>A little bit of experience on HTML, CSS and JavaScript too.</p>
-  <p>A bit of experience managing *nix systems.</p>
+  <p>A bit of experience managing Linux systems.</p>
   <p>Send me an eletronic mail: <code>arthurbacci@protonmail.com</code>.</p>
   <p>Fun fact: I generated my profile picture using <a href="https://processing.org/">Processing</a>.</p>
 </div>

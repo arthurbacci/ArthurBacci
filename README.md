@@ -23,5 +23,3 @@
   <br>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=arthurbacci64&hide=html">
 </div>
-
-<script src="https://gist.github.com/ArthurBacci64/34ef27b6bd6dd2edbd4d3cd90ab2ceed.js"></script>

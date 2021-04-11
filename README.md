@@ -1,7 +1,7 @@
 <center><img width="200px" src="caos-spiral.gif" /></center>
 
 <div style="margin-left: auto;">
-  <h2>Just a not too experienced C programmer. (I also know a little bit of Python)</h2>
+  <h2>Just a not too experienced C programmer</h2>
   <p>I am currently learning Rust and Haskell.</p>
   <p>A little bit of experience on HTML, CSS and JavaScript too.</p>
   <p>A bit of experience managing Linux systems.</p>

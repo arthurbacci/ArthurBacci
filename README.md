@@ -1,3 +1,5 @@
+<h1>RusTed will be unprivated soon!! <img width="24px" src="https://www.rustacean.net/assets/rustacean-flat-happy.png"></h1>
+
 <center><img width="200px" src="caos-spiral.gif" /></center>
 
 <div style="margin-left: auto;">

@@ -1,6 +1,2 @@
-<div>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbacci&hide=html&_=_">
-  <br>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=arthurbacci&hide=html&_=_">
-</div>
-https://discord.gg/XRvuZC3frS
+- I know the basics of C and Rust and enjoy doing some small projects for fun
+- I have a small disc. server (https://discord.gg/XRvuZC3frS)
